@@ -3,7 +3,7 @@
 
 ## Apie
 	Forumas leidžia vartotojui prisijungti ir užsiregistruoti duomenų bazėje, kurti diskusijų temas ir atsakyti į jas.
-	Atidarykite „Demonstration.pdf“, jei norite pamatyti, kaip veikia svetainė.
+	Atidarykite „RubyCourseProjectWork.pdf“, jei norite pamatyti, kaip veikia svetainė.
 
 ## Duomenu bazes sukurimas
 	Parašykite savo duomenų bazės informaciją į config / database.yml.
